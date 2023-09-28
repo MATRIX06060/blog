@@ -86,50 +86,6 @@
       </tags>
   </entry>
   <entry>
-    <title>阿里云盘的使用感想</title>
-    <url>/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E6%83%B3/</url>
-    <content><![CDATA[<p>这个主题我很早就想写了<br>只是一直苦于没时间坐下来写<br>今天就把他写了</p>
-<span id="more"></span>
-
-<h2 id="第一感觉"><a href="#第一感觉" class="headerlink" title="第一感觉"></a>第一感觉</h2><p>阿里云盘给我的第一感觉是不坑</p>
-<p>毕竟刚开始的时候打着不限速的旗号出来的  </p>
-<p>我算是比较早的一批用户了，2021.8.13注册的号。</p>
-<p>刚开始的时候福利特别多，轻轻松松就搞到10T左右，但是那个时候的我并没有什么要存的，就只好先把容量放到那里，也就是说我只做了永久容量的任务。</p>
-<h2 id="反转"><a href="#反转" class="headerlink" title="反转"></a>反转</h2><p>我真正开始用云盘的时候是网课，也就是2022年下半年，那个时候我刷番比较多，很多东西都想下到本地。</p>
-<p>然而，画质越高，大小越大，这是基本规则，那么，1080P级别10集的番你猜要多大呢？</p>
-<p>大概是这样的</p>
-<p><a href="https://imgse.com/i/pPGuJ9x"><img src="https://s1.ax1x.com/2023/08/21/pPGuJ9x.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGuJ9x.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGuJ9x.png"></a></p>
-<p>这是虚构推理第一季的第一集，大小已经到了700MB将近800MB</p>
-<p>那么可以合理推断出如果升级成4K画质，这大小起码1G起步</p>
-<p>虚构推理第一季一共12集，再加上杂七杂八的各种辅助元数据字幕文件，大小是这样的。</p>
-<p><a href="https://imgse.com/i/pPGuauD"><img src="https://s1.ax1x.com/2023/08/21/pPGuauD.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGuauD.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGuauD.png"></a></p>
-<p>这大小，要是某度网盘可以下一天</p>
-<p>阿里云盘呢？</p>
-<p>其实最开始很给力，几十兆每秒不要命的下</p>
-<p>结果到后来，画风就变成这样的了</p>
-<p><a href="https://imgse.com/i/pPGufbQ"><img src="https://s1.ax1x.com/2023/08/21/pPGufbQ.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGufbQ.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGufbQ.png"></a></p>
-<p>好家伙，这我还受得了？？？？？</p>
-<h2 id="解锁正确用法"><a href="#解锁正确用法" class="headerlink" title="解锁正确用法"></a>解锁正确用法</h2><p>作为用户，我们最大的责任就是薅羊毛。</p>
-<p>于是，很早我就盯上了一个项目</p>
-<p>CloudDrive，一个可以把阿里云盘挂载到本地就程序</p>
-<p>这机会不就来了吗，一旦挂载到本地，那可就不是你说的算了</p>
-<p>什么JellyFin，Emby，Calibre全往里面接，直接做成媒体库</p>
-<p>直到某一天，CloudDrive开始收费了。。。。。。</p>
-<p><a href="https://imgse.com/i/pPGKAqe"><img src="https://s1.ax1x.com/2023/08/21/pPGKAqe.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGKAqe.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGKAqe.png"></a></p>
-<p>我可真<del>特喵</del>打心眼里高兴</p>
-<p>得了，反正挂载一个盘就挂载一个盘吧，大不了我玩波多开，只要不问我IP我就没事。</p>
-<h2 id="现在"><a href="#现在" class="headerlink" title="现在"></a>现在</h2><p>现在家里的媒体服务器上有一块500GB的东芝的硬盘，挂载了阿里云盘，里面存了将近6个T的东西，支撑成为一个影视库绰绰有余</p>
-<p>开了GuC&#x2F;HuC，完成了硬件解码，整体使用体验还可以。</p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>总结：用可以用，但不要充钱，毛可以薅，一次性薅完。</p>
-]]></content>
-      <categories>
-        <category>云盘</category>
-      </categories>
-      <tags>
-        <tag>云盘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>折腾OpenWrt的一点点感想</title>
     <url>/%E6%8A%98%E8%85%BEOpenWrt%E7%9A%84%E4%B8%80%E7%82%B9%E7%82%B9%E6%84%9F%E6%83%B3/</url>
     <content><![CDATA[<p>这<strong>不是</strong>一篇教程，这只是我作为一个<strong>编译者</strong>而不是开发者的感想。<br>OpenWrt是个很复杂的系统，因为他删掉了Linux内核的不少东西，可以说是半残版本的Linux，但是他又有路由器的基本功能，算是定向裁剪过后的系统，因此，说说玩了这么久以后的想法</p>
@@ -171,6 +127,50 @@
         <tag>OpenWrt</tag>
         <tag>Linux</tag>
         <tag>路由器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>阿里云盘的使用感想</title>
+    <url>/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E6%83%B3/</url>
+    <content><![CDATA[<p>这个主题我很早就想写了<br>只是一直苦于没时间坐下来写<br>今天就把他写了</p>
+<span id="more"></span>
+
+<h2 id="第一感觉"><a href="#第一感觉" class="headerlink" title="第一感觉"></a>第一感觉</h2><p>阿里云盘给我的第一感觉是不坑</p>
+<p>毕竟刚开始的时候打着不限速的旗号出来的  </p>
+<p>我算是比较早的一批用户了，2021.8.13注册的号。</p>
+<p>刚开始的时候福利特别多，轻轻松松就搞到10T左右，但是那个时候的我并没有什么要存的，就只好先把容量放到那里，也就是说我只做了永久容量的任务。</p>
+<h2 id="反转"><a href="#反转" class="headerlink" title="反转"></a>反转</h2><p>我真正开始用云盘的时候是网课，也就是2022年下半年，那个时候我刷番比较多，很多东西都想下到本地。</p>
+<p>然而，画质越高，大小越大，这是基本规则，那么，1080P级别10集的番你猜要多大呢？</p>
+<p>大概是这样的</p>
+<p><a href="https://imgse.com/i/pPGuJ9x"><img src="https://s1.ax1x.com/2023/08/21/pPGuJ9x.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGuJ9x.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGuJ9x.png"></a></p>
+<p>这是虚构推理第一季的第一集，大小已经到了700MB将近800MB</p>
+<p>那么可以合理推断出如果升级成4K画质，这大小起码1G起步</p>
+<p>虚构推理第一季一共12集，再加上杂七杂八的各种辅助元数据字幕文件，大小是这样的。</p>
+<p><a href="https://imgse.com/i/pPGuauD"><img src="https://s1.ax1x.com/2023/08/21/pPGuauD.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGuauD.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGuauD.png"></a></p>
+<p>这大小，要是某度网盘可以下一天</p>
+<p>阿里云盘呢？</p>
+<p>其实最开始很给力，几十兆每秒不要命的下</p>
+<p>结果到后来，画风就变成这样的了</p>
+<p><a href="https://imgse.com/i/pPGufbQ"><img src="https://s1.ax1x.com/2023/08/21/pPGufbQ.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGufbQ.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGufbQ.png"></a></p>
+<p>好家伙，这我还受得了？？？？？</p>
+<h2 id="解锁正确用法"><a href="#解锁正确用法" class="headerlink" title="解锁正确用法"></a>解锁正确用法</h2><p>作为用户，我们最大的责任就是薅羊毛。</p>
+<p>于是，很早我就盯上了一个项目</p>
+<p>CloudDrive，一个可以把阿里云盘挂载到本地就程序</p>
+<p>这机会不就来了吗，一旦挂载到本地，那可就不是你说的算了</p>
+<p>什么JellyFin，Emby，Calibre全往里面接，直接做成媒体库</p>
+<p>直到某一天，CloudDrive开始收费了。。。。。。</p>
+<p><a href="https://imgse.com/i/pPGKAqe"><img src="https://s1.ax1x.com/2023/08/21/pPGKAqe.png" class="lazyload" data-srcset="https://s1.ax1x.com/2023/08/21/pPGKAqe.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="pPGKAqe.png"></a></p>
+<p>我可真<del>特喵</del>打心眼里高兴</p>
+<p>得了，反正挂载一个盘就挂载一个盘吧，大不了我玩波多开，只要不问我IP我就没事。</p>
+<h2 id="现在"><a href="#现在" class="headerlink" title="现在"></a>现在</h2><p>现在家里的媒体服务器上有一块500GB的东芝的硬盘，挂载了阿里云盘，里面存了将近6个T的东西，支撑成为一个影视库绰绰有余</p>
+<p>开了GuC&#x2F;HuC，完成了硬件解码，整体使用体验还可以。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>总结：用可以用，但不要充钱，毛可以薅，一次性薅完。</p>
+]]></content>
+      <categories>
+        <category>云盘</category>
+      </categories>
+      <tags>
+        <tag>云盘</tag>
       </tags>
   </entry>
 </search>
